@@ -1,3 +1,4 @@
-# MetLee
+You can contact me via:
 
-It looks like a new feature~
+Telegram: [@MetLee](https://t.me/MetLee)
+
