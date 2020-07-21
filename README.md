@@ -27,6 +27,9 @@
             <a href="https://www.php.net/">
                 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
             </a>
+            <a href="https://sqlite.org/">
+                <img src="https://img.shields.io/badge/-SQL-003B57?style=flat&logo=SQLite&logoColor=white" />
+            </a>
             <a href="https://www.gnu.org/software/octave/">
                 <img src="https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=Octave&logoColor=white" />
             </a>
