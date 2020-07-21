@@ -5,7 +5,7 @@
     <ul>
         <li>🧪 Bachelor of Science, studying for my Master's degree.</li>
         <li>⌨️ Writting some weird and useless codes at my break time.</li>
-        <li>🎮 Nintendo Switch player. Steam user.</li>
+        <li>🎮 Nintendo Switch player. Steam user. LBS games player.</li>
         <li>📖 Learning ML on the Coursera recently.</li>
         <li>💬 Languages: zh-cn, en, ja (basic level).</li>
         <li>💻 Programming languages:
@@ -27,8 +27,11 @@
             <a href="https://www.php.net/">
                 <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=PHP&logoColor=white" />
             </a>
+            <a href="https://www.gnu.org/software/octave/">
+                <img src="https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=Octave&logoColor=white" />
+            </a>
         </li>
-        <li>💻 Markup language:
+        <li>💻 Markup languages:
             <a href="https://daringfireball.net/projects/markdown/">
                 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
             </a>
