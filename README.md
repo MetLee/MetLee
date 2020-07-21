@@ -3,7 +3,7 @@
 
 <p align="left">
     <ul>
-        <li>🧪 Bachelor of Science, studying for my master's degree.</li>
+        <li>🧪 Bachelor of Science, studying for my Master's degree.</li>
         <li>⌨️ Writting some weird and useless codes at my break time.</li>
         <li>🎮 Nintendo Switch player. Steam user.</li>
         <li>📖 Learning ML on the Coursera recently.</li>
@@ -31,6 +31,9 @@
         <li>💻 Markup language:
             <a href="https://daringfireball.net/projects/markdown/">
                 <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
+            </a>
+            <a href="https://html.spec.whatwg.org/multipage/">
+                <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white" />
             </a>
         </li>
         <li>💻 Code editors / IDEs:
