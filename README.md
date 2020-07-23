@@ -73,6 +73,9 @@
         <a href="https://www.apple.com/ipados/">
             <img src="https://img.shields.io/badge/-iPadOS%2013-999999?style=flat&logo=Apple&logoColor=white" />
         </a>
+        <a href="https://www.android.com/">
+            <img src="https://img.shields.io/badge/-Android%205.1-3DDC84?style=flat&logo=Android&logoColor=white" />
+        </a>
     </li>
     <li>📞 Contact:
         <a href="https://t.me/MetLee">
