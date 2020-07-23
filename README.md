@@ -57,6 +57,9 @@
             <a href="https://www.jetbrains.com/pycharm/">
                 <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=JetBrains&logoColor=white" />
             </a>
+            <a href="https://www.gnu.org/software/octave/">
+                <img src="https://img.shields.io/badge/-Octave%20(CLI)-0790C0?style=flat&logo=Octave&logoColor=white" />
+            </a>
         </li>
         <li>💻 Platforms:
             <a href="https://www.microsoft.com/windows/">
