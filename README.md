@@ -1,5 +1,4 @@
 <h2 align="center">Hi dude, welcome to my profile page!</h2>
-<HR>
 
 <p align="left">
     <ul>
