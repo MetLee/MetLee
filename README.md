@@ -90,6 +90,7 @@
 <br />
 
 <p align="center"><b>📊 Weekly development breakdown</b></p>
+
 <!--START_SECTION:waka-->
 ```text
 Other      11 hrs 13 mins  ████████████████████░░░░░   81.01 % 
