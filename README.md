@@ -3,10 +3,20 @@
 <p align="left">
 <ul>
     <li>🧪 Bachelor of Science, studying for my Master's degree.</li>
-    <li>⌨️ Writting some weird and useless codes at my break time.</li>
-    <li>🎮 Nintendo Switch player. Steam user. LBS games player.</li>
+    <li>⌨️ Writting some weird and useless codes at my break time. </li>
     <li>📖 Learning ML on the Coursera recently.</li>
     <li>💬 Languages: zh-cn, en, ja (basic level).</li>
+    <li>🎮 Entertainments:
+        <a href="https://www.nintendo.com/switch/">
+            <img src="https://img.shields.io/badge/-Nintendo%20Switch-E60012?style=flat&logo=Nintendo-Switch&logoColor=white" />
+        </a>
+        <a href="https://store.steampowered.com/">
+            <img src="https://img.shields.io/badge/-Steam-000000?style=flat&logo=Steam&logoColor=white" />
+        </a>
+        <a href="https://www.ingress.com/">
+            <img src="https://img.shields.io/badge/-Ingress-00c5ff?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiCgkgd2lkdGg9IjI0MHB4IiBoZWlnaHQ9IjI0MHB4IiB2aWV3Qm94PSIwIDAgMjQwIDI0MCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMjQwIDI0MCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+CjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMjAsMEwxNSw2MHYxMjBsMTA1LDYwbDEwNS02MFY2MEwxMjAsMHogTTEyMCwxMS41MTVMMjE1LDY1Ljh2MTA4LjRsLTk1LDU0LjI3NEwyNSwxNzQuMlY2NS44TDEyMCwxMS41MTV6CgkgTTEyMCwyMy4wMzVMMzUsNzEuNnY5Ni43OTFsODUsNDguNTc0bDg1LTQ4LjU3NFY3MS42TDEyMCwyMy4wMzV6IE0xMTUsMzcuNDFWNzBoMTBWMzcuNDFsNzAsMzkuOTl2ODAuMTYxbC0yOS41Ni0xNi44NTEKCWwtNC42OSw4LjIwNWwyOS4xMjUsMTYuNjAxTDEyMCwyMDUuNDQ1bC02OS44NzUtMzkuOTJsMjkuMTI1LTE2LjYwMmwtNC42OS04LjIwM0w0NSwxNTcuNTYxVjc3LjQxTDExNSwzNy40MXogTTYwLDg1bDYwLDEwNWw2MC0xMDUKCUg2MHogTTg1Ljg1LDk1aDY4Ljk1bC0zNC43OCwxOS4yN0w4NS44NSw5NXogTTgyLjgsMTA0Ljc1NUwxMTUsMTIyLjkydjM4LjE3Nkw4Mi44LDEwNC43NVYxMDQuNzU1eiBNMTU2LjksMTA1LjI3NUwxMjUsMTYxLjA5NgoJdi0zOC4xNUwxNTYuOSwxMDUuMjc1TDE1Ni45LDEwNS4yNzV6Ii8+Cjwvc3ZnPg==" />
+        </a>
+    </li>
     <li>💻 Programming languages:
         <a href="https://www.python.org/">
             <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
