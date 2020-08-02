@@ -64,7 +64,7 @@
             <img src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=Eclipse-IDE&logoColor=white" />
         </a>
         <a href="https://www.jetbrains.com/pycharm/">
-            <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=JetBrains&logoColor=white" />
+            <img src="https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm&logoColor=white" />
         </a>
         <a href="https://www.gnu.org/software/octave/">
             <img src="https://img.shields.io/badge/-Octave%20(CLI)-0790C0?style=flat&logo=Octave&logoColor=white" />
