@@ -106,8 +106,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-Octave   4 hrs 21 mins   █████████████████░░░░░░░░   68.42 % 
-Other    2 hrs           ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Octave   1 hr 7 mins     █████████████░░░░░░░░░░░░   51.49 % 
+Other    1 hr 3 mins     ████████████░░░░░░░░░░░░░   48.51 % 
 ```
 <!--END_SECTION:waka-->
 
