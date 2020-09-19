@@ -77,11 +77,14 @@
         <a href="https://ubuntu.com/">
             <img src="https://img.shields.io/badge/-Ubuntu%2018-E95420?style=flat&logo=Ubuntu&logoColor=white" />
         </a>
-        <a href="https://www.apple.com/ios/ios-13/">
-            <img src="https://img.shields.io/badge/-iOS%2013-999999?style=flat&logo=Apple&logoColor=white" />
+        <a href="https://www.apple.com/ios/ios-14/">
+            <img src="https://img.shields.io/badge/-iOS%2014-999999?style=flat&logo=Apple&logoColor=white" />
         </a>
         <a href="https://www.apple.com/ipados/">
-            <img src="https://img.shields.io/badge/-iPadOS%2013-999999?style=flat&logo=Apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/-iPadOS%2014-999999?style=flat&logo=Apple&logoColor=white" />
+        </a>
+        <a href="https://www.apple.com/watchos/watchos-7/">
+            <img src="https://img.shields.io/badge/-watchOS%205-999999?style=flat&logo=Apple&logoColor=white" />
         </a>
         <a href="https://www.android.com/">
             <img src="https://img.shields.io/badge/-Android%205.1-3DDC84?style=flat&logo=Android&logoColor=white" />
