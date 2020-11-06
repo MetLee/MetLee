@@ -1,4 +1,4 @@
-<h2 align="center">Hi dude, welcome to my profile page!</h2>
+<h2 align="center">Hi, welcome to my profile page!</h2>
 
 <p align="left">
 <ul>
@@ -17,7 +17,7 @@
             <img src="https://img.shields.io/badge/-Ingress-00c5ff?style=flat&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+SW5ncmVzcyBpY29uPC90aXRsZT48cGF0aCBkPSJNMTEuNzAyLjAzN2MtLjE4MS4wNTUtLjE4OC4wNTgtNS4xMDMgMi44NzQtNS4xOCAyLjk2OC00Ljg5NCAyLjc5MS01LjA4MiAzLjEzbC0uMTM1LjI0Ny0uMDEyIDUuNjA0Yy0uMDE0IDYuMzEyLS4wMzQgNS45My4zMjQgNi4zLjI2Ny4yNzcgOS43NyA1LjcyNCAxMC4wOTEgNS43ODQuNDQyLjA4My4zNzEuMTE5IDUuNTEtMi44MjMgNC45MDYtMi44MSA1LjA0LTIuODk0IDUuMjIzLTMuMjMzbC4xMDEtLjE4OS4wMTMtNS42MjZjLjAxNC02LjI3MS4wMy01LjkzMi0uMjk3LTYuMjg4QzIyLjE0NCA1LjYxIDEyLjYzNy4xMzQgMTIuMzEuMDQ0Yy0uMTk3LS4wNTYtLjQ0LS4wNTgtLjYwOC0uMDA3bS4zMDkgNS44MDVsLjUxNC4wMTMuMDEyLTIuMjYyLjAxMy0yLjI2MyA0LjQ5NiAyLjU3YzMuMTcgMS44MTIgNC41MDQgMi41OTcgNC41MjEgMi42NjIuMDE0LjA1LjAyIDIuMzkyLjAxMyA1LjIwNGwtLjAxNCA1LjExMy0xLjY5Mi0uOTc0Yy0uOTMyLS41MzQtMS44MTItMS4wMzgtMS45NTQtMS4xMmwtLjI2LS4xNDctLjI1NS40MzRjLS4xNDEuMjM5LS4yNTUuNDQyLS4yNTUuNDUyIDAgLjAxMS44NzQuNTIxIDEuOTQ0IDEuMTM1IDEuNDcyLjg0NiAxLjkzMSAxLjEyOCAxLjg4OCAxLjE2Ny0uMDMxLjAyOC0yLjA2MyAxLjItNC41MTggMi42MDRsLTQuNDYgMi41NTQtLjEzOS0uMDhjLS4wNzctLjA0NS0yLjA4Ni0xLjE5NC00LjQ2NS0yLjU1NC0yLjM3OS0xLjM2LTQuMzUtMi40OTYtNC4zOC0yLjUyNC0uMDQxLS4wMzcuNDIyLS4zMjIgMS44MjYtMS4xMjUgMS4wMzUtLjU5MiAxLjkxMy0xLjEgMS45NTItMS4xMjguMDYtLjA0My0uMjIyLS42NDktLjQzMS0uOTI1LS4wMDYtLjAwOC0uODk0LjQ5Mi0xLjk3MyAxLjExbC0xLjk2IDEuMTI0LS4wMTItNS4xNThjLS4wMDktNC4yNjktLjAwMS01LjE2OS4wNS01LjIyLjAzNC0uMDMzIDIuMDY4LTEuMjExIDQuNTIxLTIuNjE3bDQuNDU4LTIuNTU1LjAyMyAyLjI0OS4wMjMgMi4yNDkuNTE0LjAxMk00LjQ5OCA3LjY3N2MtLjAzMS4wNTEgNy40NDEgMTIuOTEgNy41MDIgMTIuOTEyLjA2My4wMDEgNy41MzYtMTIuODU3IDcuNTA0LTEyLjkxLS4wMzQtLjA1NC0xNC45NzMtLjA1Ni0xNS4wMDYtLjAwMk0xNi42MiA4LjczYy0uMDUzLjA0OS0zLjk0NCAyLjI4Ni00LjIxOCAyLjQyNS0uMjMxLjExNy0uNTU0LjEyNy0uNzU5LjAyMy0uMjM1LS4xMi00LjIxNi0yLjQwNi00LjI2NC0yLjQ1LS4wMjQtLjAyIDIuMDE4LS4wMzggNC42MjEtLjAzOCAyLjY4IDAgNC42NDYuMDE3IDQuNjIuMDRtLTcuNjE4IDIuMTQzYzEuMTIxLjY0NCAyLjEwMiAxLjIxOSAyLjE4MiAxLjI3OC4yOTIuMjE5LjI5My4yMjcuMjggMi45OWwtLjAxMyAyLjQ5LTIuMDM0LTMuNDk4Yy0xLjExOS0xLjkyMy0yLjE2NS0zLjcyMS0yLjMyNS0zLjk5NS0uMTk4LS4zNC0uMjY0LS40ODgtLjIwOS0uNDY3LjA0NS4wMTcuOTk5LjU1OCAyLjExOSAxLjIwMm04LjExLTEuMDczYy0uMDUuMDgyLTEuMDg0IDEuODU4LTIuMjk4IDMuOTQ4LTEuMjE0IDIuMDg5LTIuMjI2IDMuODE4LTIuMjQ4IDMuODQzLS4wMjUuMDI3LS4wMzctLjk3OS0uMDI5LTIuNTIxbC4wMTMtMi41NjUuMTE3LS4xNzZjLjEwNC0uMTU4IDQuMzM1LTIuNjc2IDQuNDk3LTIuNjc3LjAyMS0uMDAxLS4wMDMuMDY2LS4wNTIuMTQ4Ii8+PC9zdmc+" />
         </a>
     </li>
-    <li>💻 Programming languages:
+    <li>📝 Programming languages:
         <a href="https://www.python.org/">
             <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
         </a>
@@ -43,7 +43,7 @@
             <img src="https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=Octave&logoColor=white" />
         </a>
     </li>
-    <li>💻 Markup languages:
+    <li>📝 Markup languages:
         <a href="https://daringfireball.net/projects/markdown/">
             <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=Markdown&logoColor=white" />
         </a>
