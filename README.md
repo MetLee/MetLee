@@ -84,7 +84,7 @@
             <img src="https://img.shields.io/badge/-iPadOS%2014-999999?style=flat&logo=Apple&logoColor=white" />
         </a>
         <a href="https://www.apple.com/watchos/watchos-7/">
-            <img src="https://img.shields.io/badge/-watchOS%205-999999?style=flat&logo=Apple&logoColor=white" />
+            <img src="https://img.shields.io/badge/-watchOS%207-999999?style=flat&logo=Apple&logoColor=white" />
         </a>
         <a href="https://www.android.com/">
             <img src="https://img.shields.io/badge/-Android%205.1-3DDC84?style=flat&logo=Android&logoColor=white" />
