@@ -42,6 +42,9 @@
         <a href="https://www.gnu.org/software/octave/">
             <img src="https://img.shields.io/badge/-Octave-0790C0?style=flat&logo=Octave&logoColor=white" />
         </a>
+        <a href="https://www.javascript.com/">
+            <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
+        </a>
     </li>
     <li>📝 Markup languages:
         <a href="https://daringfireball.net/projects/markdown/">
