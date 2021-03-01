@@ -112,10 +112,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python                     2 hrs 34 mins   █████████████▒░░░░░░░░░░░   53.44 % 
-Other                      1 hr 11 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.78 % 
-Nginx configuration file   58 mins         █████░░░░░░░░░░░░░░░░░░░░   20.36 % 
-JSON                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Python                     2 hrs 34 mins   █████████████░░░░░░░░░░░░   51.43 % 
+Other                      1 hr 11 mins    ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Nginx configuration file   58 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+JavaScript                 8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+JSON                       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 ```
 <!--END_SECTION:waka-->
 
