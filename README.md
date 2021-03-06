@@ -78,7 +78,7 @@
             <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=flat&logo=Windows&logoColor=white" />
         </a>
         <a href="https://ubuntu.com/">
-            <img src="https://img.shields.io/badge/-Ubuntu%2018-E95420?style=flat&logo=Ubuntu&logoColor=white" />
+            <img src="https://img.shields.io/badge/-Ubuntu%2020-E95420?style=flat&logo=Ubuntu&logoColor=white" />
         </a>
         <a href="https://www.apple.com/ios/ios-14/">
             <img src="https://img.shields.io/badge/-iOS%2014-999999?style=flat&logo=Apple&logoColor=white" />
