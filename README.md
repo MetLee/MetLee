@@ -115,11 +115,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-JSON     57 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.87 % 
-CSV      55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.03 % 
-Python   41 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 % 
-Other    37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.16 % 
-HTML     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
