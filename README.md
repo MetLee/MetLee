@@ -115,8 +115,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        50 mins         █████████████▓░░░░░░░░░░░   54.67 % 
-JSON         41 mins         ███████████▒░░░░░░░░░░░░░   45.23 % 
+
 ```
 <!--END_SECTION:waka-->
 
