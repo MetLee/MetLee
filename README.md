@@ -115,10 +115,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other      3 hrs 6 mins    ███████████░░░░░░░░░░░░░░   44.01 % 
-Markdown   1 hr 56 mins    ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Python     1 hr 39 mins    ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-PHP        20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
