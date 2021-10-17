@@ -6,6 +6,14 @@
     <li>⌨️ Writting some weird and useless codes at my break time. </li>
     <li>📖 Learning ML on the Coursera recently.</li>
     <li>💬 Languages: zh-cn, en, ja (basic level).</li>
+    <li>🏆 Awards: 
+        <ul>
+            <li>Cipher & Code Bar Competition X: <strong>Rank 17</strong>.</li>
+            <li>Hackergame 2020: <strong>Rank 75</strong>.</li>
+            <li>Cipher & Code Bar Competition 11: <strong>Rank 31</strong>.</li>
+            <li>Hackergame 2021: <strong>Rank ??</strong>.</li>
+        </ul>
+    </li>
     <li>🎮 Entertainments:
         <a href="https://www.nintendo.com/switch/">
             <img src="https://img.shields.io/badge/-Nintendo%20Switch-E60012?style=flat&logo=Nintendo-Switch&logoColor=white" />
