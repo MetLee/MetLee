@@ -123,7 +123,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Other        5 mins          ███████████████████████▓░   94.73 % 
+
 ```
 <!--END_SECTION:waka-->
 
