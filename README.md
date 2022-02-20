@@ -123,8 +123,6 @@
 
 <!--START_SECTION:waka-->
 ```text
-Total: 1 min
-
 Other   10 mins         ██████████████████████░░░   88.21 % 
 JSON    1 min           ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
 ```
