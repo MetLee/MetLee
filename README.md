@@ -122,9 +122,11 @@
 <p align="center"><b>📊 Weekly development breakdown</b></p>
 
 <!--START_SECTION:waka-->
-```text
 
+```text
+Other    0 secs          █████████▓░░░░░░░░░░░░░░░   38.86 %
 ```
+
 <!--END_SECTION:waka-->
 
 <!--
