@@ -124,11 +124,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python                     1 hr            ██████████████▒░░░░░░░░░░   57.87 %
-JSON                       32 mins         ███████▓░░░░░░░░░░░░░░░░░   30.72 %
-Git Config                 10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-Other                      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python   55 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
