@@ -124,8 +124,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON     4 mins          ███████████████▒░░░░░░░░░   61.08 %
-Python   2 mins          █████████▓░░░░░░░░░░░░░░░   38.92 %
+Python   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
