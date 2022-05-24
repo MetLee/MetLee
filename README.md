@@ -124,7 +124,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JSON   1 hr 9 mins     █████████████████████████   99.65 %
+Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
