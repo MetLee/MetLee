@@ -124,9 +124,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python   59 mins         ██████████████████████▓░░   90.09 %
-JSON     6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
