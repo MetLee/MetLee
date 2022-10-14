@@ -124,7 +124,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Other        6 hrs 14 mins   ████████████████░░░░░░░░░   64.39 %
+CSS          6 hrs 17 mins   █████████░░░░░░░░░░░░░░░░   36.05 %
+Other        5 hrs 24 mins   ███████▓░░░░░░░░░░░░░░░░░   31.02 %
 ```
 
 <!--END_SECTION:waka-->
