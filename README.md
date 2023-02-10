@@ -12,6 +12,7 @@
             <li>Hackergame 2020: <strong>Rank 75</strong>.</li>
             <li>Cipher & Code Bar Competition 11: <strong>Rank 31</strong>.</li>
             <li>Hackergame 2021: <strong>Rank 38</strong>.</li>
+            <li>Cipher & Code Bar Competition 12: <strong>Rank 36</strong>.</li>
         </ul>
     </li>
     <li>🎮 Entertainments:
