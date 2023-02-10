@@ -89,16 +89,16 @@
             <img src="https://img.shields.io/badge/-Windows%2010-0078D6?style=flat&logo=Windows&logoColor=white" />
         </a>
         <a href="https://ubuntu.com/">
-            <img src="https://img.shields.io/badge/-Ubuntu%2020-E95420?style=flat&logo=Ubuntu&logoColor=white" />
+            <img src="https://img.shields.io/badge/-Ubuntu%2021-E95420?style=flat&logo=Ubuntu&logoColor=white" />
         </a>
-        <a href="https://www.apple.com/ios/ios-14/">
-            <img src="https://img.shields.io/badge/-iOS%2014-999999?style=flat&logo=Apple&logoColor=white" />
+        <a href="https://www.apple.com/ios/ios-16/">
+            <img src="https://img.shields.io/badge/-iOS%2016-999999?style=flat&logo=Apple&logoColor=white" />
         </a>
-        <a href="https://www.apple.com/ipados/">
-            <img src="https://img.shields.io/badge/-iPadOS%2014-999999?style=flat&logo=Apple&logoColor=white" />
+        <a href="https://www.apple.com/ipados-16/">
+            <img src="https://img.shields.io/badge/-iPadOS%2016-999999?style=flat&logo=Apple&logoColor=white" />
         </a>
-        <a href="https://www.apple.com/watchos/watchos-7/">
-            <img src="https://img.shields.io/badge/-watchOS%207-999999?style=flat&logo=Apple&logoColor=white" />
+        <a href="https://www.apple.com/watchos/watchos-9/">
+            <img src="https://img.shields.io/badge/-watchOS%209-999999?style=flat&logo=Apple&logoColor=white" />
         </a>
         <a href="https://www.android.com/">
             <img src="https://img.shields.io/badge/-Android%205.1-3DDC84?style=flat&logo=Android&logoColor=white" />
