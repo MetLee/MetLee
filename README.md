@@ -125,9 +125,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Python       1 hr 26 mins    ████████░░░░░░░░░░░░░░░░░   31.49 %
-Gaussian     1 hr 14 mins    ███████░░░░░░░░░░░░░░░░░░   27.41 %
-Other        1 hr 7 mins     ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
+Gaussian     1 hr 15 mins    ███████████░░░░░░░░░░░░░░   43.62 %
+Other        40 mins         ██████░░░░░░░░░░░░░░░░░░░   23.72 %
 ```
 
 <!--END_SECTION:waka-->
