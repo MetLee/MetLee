@@ -125,9 +125,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Gaussian   1 hr 48 mins    █████████████████░░░░░░░░   68.37 %
-JSON       49 mins         ███████▓░░░░░░░░░░░░░░░░░   31.19 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
