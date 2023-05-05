@@ -125,8 +125,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Gaussian   1 min           ██████████████████████▓░░   90.47 %
-Other      0 secs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
