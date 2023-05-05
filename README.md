@@ -2,7 +2,7 @@
 
 <p align="left">
 <ul>
-    <li>🧪 Bachelor of Science, studying for my Master's degree.</li>
+    <li>🧪 Bachelor of Science, studying for my Doctoral degree.</li>
     <li>⌨️ Writting some weird and useless codes at my break time. </li>
     <li>📖 Learning ML on the Coursera recently.</li>
     <li>💬 Languages: zh-cn, en, ja (basic level).</li>
