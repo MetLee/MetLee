@@ -125,8 +125,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Gaussian   18 mins         ████████████████████░░░░░   80.25 %
-Other      4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.75 %
+Gaussian   17 mins         ████████████████████░░░░░   79.61 %
+Other      4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.39 %
 ```
 
 <!--END_SECTION:waka-->
