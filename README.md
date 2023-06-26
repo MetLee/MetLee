@@ -125,8 +125,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gaussian   7 mins          █████████████████████████   99.67 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+JSON   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
