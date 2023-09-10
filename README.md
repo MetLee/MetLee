@@ -125,7 +125,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gaussian   9 mins          █████████████████████████   100.00 %
+Gaussian   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
