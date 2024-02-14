@@ -125,7 +125,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python     1 hr 4 mins     █████████████████░░░░░░░░   67.47 %
+Gaussian   21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.62 %
+Other      6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
+Bash       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+INI        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
 ```
 
 <!--END_SECTION:waka-->
