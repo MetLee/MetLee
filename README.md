@@ -125,7 +125,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   3 mins          ████████████████████▒░░░░   81.66 %
+INI    0 secs          ████▓░░░░░░░░░░░░░░░░░░░░   18.34 %
 ```
 
 <!--END_SECTION:waka-->
