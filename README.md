@@ -125,7 +125,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gaussian   8 mins          █████████████████████████   100.00 %
+Python     35 mins         ███████████████████░░░░░░   76.22 %
+Gaussian   8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.89 %
+Other      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.89 %
 ```
 
 <!--END_SECTION:waka-->
