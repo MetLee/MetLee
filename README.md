@@ -125,10 +125,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Text       35 mins         ██████████████████░░░░░░░   71.38 %
-Python     11 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.32 %
-Gaussian   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
