@@ -13,6 +13,7 @@
             <li>Cipher & Code Bar Competition 11: <strong>Rank 31</strong>.</li>
             <li>Hackergame 2021: <strong>Rank 38/2676</strong>.</li>
             <li>Cipher & Code Bar Competition 12: <strong>Rank 36</strong>.</li>
+            <li>Cipher & Code Bar Competition 13&14: <strong>Rank 60</strong>.</li>
         </ul>
     </li>
     <li>📄 Seven research articles, including a <i>Nat. Commun.</i> (co-first author).</li>
