@@ -77,9 +77,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 38 mins    █████████████████████████   99.48 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-ChemDraw     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
