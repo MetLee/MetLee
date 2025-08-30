@@ -77,9 +77,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Gaussian   2 hrs 34 mins   ███████████████████████░░   91.67 %
-Other      9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Python     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
+Gaussian   1 hr 39 mins    ███████████████████████░░   91.48 %
+Other      9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 ```
 
 <!--END_SECTION:waka-->
