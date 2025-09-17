@@ -77,8 +77,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      3 mins          ██████████████▒░░░░░░░░░░   57.46 %
-Gaussian   2 mins          ██████████▓░░░░░░░░░░░░░░   42.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
