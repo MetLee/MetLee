@@ -77,8 +77,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other      23 mins         ███████████████░░░░░░░░░░   59.87 %
-Gaussian   15 mins         ██████████░░░░░░░░░░░░░░░   40.13 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
