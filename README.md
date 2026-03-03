@@ -77,7 +77,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   3 mins                █████████████████████████   100.00 %
+ChemDraw   2 hrs 24 mins         ████████████████████████▒   97.41 %
+JSON       3 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
 ```
 
 <!--END_SECTION:waka-->
