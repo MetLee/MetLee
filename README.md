@@ -77,8 +77,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-ChemDraw   2 hrs 49 mins         ███████████████████████▓░   94.01 %
-Other      10 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+ChemDraw   49 mins               █████████████████████████   99.41 %
+Gaussian   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
