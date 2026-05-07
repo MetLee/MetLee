@@ -77,9 +77,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-INI        5 mins                █████████████▒░░░░░░░░░░░   53.24 %
-Gaussian   4 mins                █████████▓░░░░░░░░░░░░░░░   38.47 %
-Other      0 secs                ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
