@@ -77,7 +77,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Text       47 mins               █████████████████▓░░░░░░░   70.41 %
+Gaussian   13 mins               ████▓░░░░░░░░░░░░░░░░░░░░   19.16 %
+Python     5 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+INI        1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Other      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
